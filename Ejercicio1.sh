@@ -1,3 +1,3 @@
 nombre=Facu
 
-echo $nombre
+echo "hola, $nombre"
