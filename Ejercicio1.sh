@@ -1,0 +1,3 @@
+nombre=Facu
+
+echo $nombre
